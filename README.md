@@ -1,0 +1,1 @@
+This is an application to help promote wellness and create schedules for various tasks.
